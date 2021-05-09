@@ -1,0 +1,25 @@
+.team-heading  {
+    background-color: #017981;
+}
+
+h1 {
+    color: rgb(255, 234, 220);
+}
+
+.employee-card {
+    background-color: #b86951;
+    margin: 15px;
+}
+
+.card-body {
+    background-color: rgb(255, 234, 220);
+}
+.list-group-item {
+    background-color: #ffffff;
+}
+h2, h3 {
+    color: white;
+}
+i  {
+    color: rgb(49, 49, 49);
+}
